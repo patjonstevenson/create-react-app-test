@@ -26,17 +26,11 @@ function App() {
         </a>
         !
       </h2>
-      <p>
-        <a
-          href="https://github.com/zeit/now-examples/tree/master/create-react-app-functions"
-          target="_blank"
-          rel="noreferrer noopener"
-        >
-      </p>
+     
        Where you can have your historical holiday and relax too!
       <br />
       Our Locations ...
-      
+
       <h2>The date according to Go is:</h2>
       <p>{date ? date : 'Loading date...'}</p>
     </main>
